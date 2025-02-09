@@ -5,7 +5,7 @@
 - **Email:** bramk002@ucr.edu 
 - **Date:** February 8, 2025  
 
-## 📄 Project Description
+## Project Description
 This project uses 3 different search algorithms for solving the **8-Puzzle Problem**:
 1. **Uniform Cost Search (UCS)**
 2. **A* with the Misplaced Tile heuristic**
