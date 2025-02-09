@@ -11,4 +11,4 @@ This project uses 3 different search algorithms for solving the **8-Puzzle Probl
 2. **A* with the Misplaced Tile heuristic**
 3. **A* with the Manhattan Distance heuristic**
 
-## Project Report 
+
